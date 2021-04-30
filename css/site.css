@@ -137,6 +137,87 @@ body {
   background-position: center;
 }
 
+
+.carousel-img-8 {
+  content: '';
+  height: 100vh;
+  width: auto;
+  background-image: url('../images/carrusel-8.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.carousel-img-9 {
+  content: '';
+  height: 100vh;
+  width: auto;
+  background-image: url('../images/carrusel-9.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.carousel-img-10 {
+  content: '';
+  height: 100vh;
+  width: auto;
+  background-image: url('../images/carrusel-10.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.carousel-img-11 {
+  content: '';
+  height: 100vh;
+  width: auto;
+  background-image: url('../images/carrusel-11.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.carousel-img-12 {
+  content: '';
+  height: 100vh;
+  width: auto;
+  background-image: url('../images/carrusel-12.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.carousel-img-13 {
+  content: '';
+  height: 100vh;
+  width: auto;
+  background-image: url('../images/carrusel-13.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.carousel-img-14 {
+  content: '';
+  height: 100vh;
+  width: auto;
+  background-image: url('../images/carrusel-14.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+
+.carousel-img-15 {
+  content: '';
+  height: 100vh;
+  width: auto;
+  background-image: url('../images/carrusel-15.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
 .nav {
   z-index: 100;
   width: 100%;
