@@ -108,6 +108,7 @@ ICM INTERNATIONAL CORPORATE MANAGEMENT LLC
     font-weight: var(--font-weight-bold);
     letter-spacing: -1px;
     margin: 0;
+    text-align: justify;
   }
 
   h4 {
@@ -146,6 +147,7 @@ ICM INTERNATIONAL CORPORATE MANAGEMENT LLC
     font-size: var(--p-font-size);
     font-weight: var(--font-weight-light);
     line-height: 1.5em;
+    text-align: justify;
   }
 
   b, 
@@ -399,6 +401,7 @@ ICM INTERNATIONAL CORPORATE MANAGEMENT LLC
   .navbar-toggler .navbar-toggler-icon::after {
     top: 8px;
   }
+
 
   /*---------------------------------------
      HOME              
