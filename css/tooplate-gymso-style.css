@@ -110,6 +110,7 @@ ICM INTERNATIONAL CORPORATE MANAGEMENT LLC
     letter-spacing: -1px;
     margin: 0;
     text-align: justify;
+
   }
 
   h4 {
@@ -147,6 +148,13 @@ ICM INTERNATIONAL CORPORATE MANAGEMENT LLC
     color: var(--p2-color);
     font-size: var(--p-font-size);
     font-weight: var(--font-weight-light);
+    line-height: 1.5em;
+    text-align: justify;
+  }
+
+
+  p2 {
+   
     line-height: 1.5em;
     text-align: justify;
   }
@@ -441,7 +449,7 @@ ICM INTERNATIONAL CORPORATE MANAGEMENT LLC
     /*background: var(--white-color);*/
     /*background-image: url('../images/img16.jpg');*/  
     /*background-color: transparent;  */
-    background-color: rgba(255, 255, 255, .3);
+    background-color: rgba(255, 255, 255, .4);
     /*opacity:.5;*/
     box-shadow: 6px 0 38px rgba(20,20,20,0.10);
     border-radius: 0 0 2px 2px;
