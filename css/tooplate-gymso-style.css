@@ -47,6 +47,7 @@ ICM INTERNATIONAL CORPORATE MANAGEMENT LLC
     --gray-color:           #909090;
     --link-color:           #404040;
     --p-color:              #666262;
+    --p2-color:             #000000;
 
     --base-font-family:     'Plain', sans-serif;
     --base-font-familyICM:  'AgencyFb';
@@ -143,7 +144,7 @@ ICM INTERNATIONAL CORPORATE MANAGEMENT LLC
   }
 
   p {
-    color: var(--p-color);
+    color: var(--p2-color);
     font-size: var(--p-font-size);
     font-weight: var(--font-weight-light);
     line-height: 1.5em;
@@ -422,9 +423,26 @@ ICM INTERNATIONAL CORPORATE MANAGEMENT LLC
      SERVICES              
   -----------------------------------------*/
 
+  .services {
+ 
+  background-image: url('../images/img1.jpg');
+ /*background: var(--white-color);*/
+  background-size: cover;
+  background-position: top;
+  background-repeat: no-repeat;
+  vertical-align: middle;
+  min-height: 100vh;
+  position: relative;
+ /* font-color: var(--white-color);*/
+ }
+
+
   .services-info {
-    background: var(--white-color);
-    /*background-image: url('../images/img16.jpg');*/
+    /*background: var(--white-color);*/
+    /*background-image: url('../images/img16.jpg');*/  
+    /*background-color: transparent;  */
+    background-color: rgba(255, 255, 255, .3);
+    /*opacity:.5;*/
     box-shadow: 6px 0 38px rgba(20,20,20,0.10);
     border-radius: 0 0 2px 2px;
     padding: 1rem 2rem;
