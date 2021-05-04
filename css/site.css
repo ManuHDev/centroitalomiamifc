@@ -218,6 +218,28 @@ body {
   background-repeat: no-repeat;
   background-position: center;
 }
+
+
+.carousel-img-16 {
+  content: '';
+  height: 100vh;
+  width: auto;
+  background-image: url('../images/carrusel-16.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+
+.carousel-img-17 {
+  content: '';
+  height: 100vh;
+  width: auto;
+  background-image: url('../images/carrusel-17.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
 .nav {
   z-index: 100;
   width: 100%;
